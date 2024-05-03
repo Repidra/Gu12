@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "components": [],
+      "showOutline": true,
+      "label": "=Group",
+      "type": "group",
+      "layout": {
+        "row": "Row_0okpkjx",
+        "columns": null
+      },
+      "id": "Field_1yuj8er"
+    }
+  ],
+  "type": "default",
+  "id": "Form_02zjwka",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.17.0-nightly.20231104"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 12
+}
